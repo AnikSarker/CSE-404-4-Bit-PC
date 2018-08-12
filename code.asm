@@ -1,0 +1,8 @@
+IN
+ADC 3
+MOV B, ACC
+JMP 8
+HLT
+CLC
+OUT
+HLT
